@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://paperplane.tools/sitemap.xml
+Sitemap: http://technoupdate.space/sitemap.xml
